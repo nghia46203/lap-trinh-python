@@ -1,0 +1,5 @@
+user = input("người dùng nhập: ")
+list = user.split(',')
+tuple = tuple(list)
+print("list: ", list)
+print("tuple",tuple)
